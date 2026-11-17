@@ -1,0 +1,17 @@
+1. «Atrás» — botón
+2. «Ajustes» — encabezado
+3. «Avisos con sonido Activados. La vibración y el aviso en pantalla siempre están activos.» — activado, pulsable
+4. «Sonido de la alarma Campana suave»
+5. «Cambiar el sonido de la alarma» — botón
+6. «Tamaño de la letra» — encabezado
+7. «Se suma al tamaño elegido en los ajustes del teléfono.»
+8. «Letra normal» — botón, seleccionado
+9. «Letra grande» — botón
+10. «Letra muy grande» — botón
+11. «Modo oscuro Desactivado. Reduce el brillo por la noche.» — desactivado, pulsable
+12. «Revisión de accesibilidad (solo equipo)» — encabezado
+13. «Visión normal» — botón, seleccionado
+14. «Escala de grises» — botón
+15. «Protanopía (sin rojo)» — botón
+16. «Deuteranopía (sin verde)» — botón
+17. «Tritanopía (sin azul)» — botón

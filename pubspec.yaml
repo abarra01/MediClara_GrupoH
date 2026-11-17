@@ -1,0 +1,30 @@
+name: mediclara
+description: "MediClara - Aplicación accesible para gestionar la medicación diaria (Grupo H, Accesibilidad 2026/27)."
+publish_to: 'none'
+version: 0.5.0+5
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Textos del sistema (botón Atrás, selector de hora...) en español para TalkBack.
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  # Tipografía empaquetada en la app (funciona sin conexión, RNF-O02).
+  # Atkinson Hyperlegible: diseñada por el Braille Institute para personas con baja visión.
+  fonts:
+    - family: AtkinsonHyperlegible
+      fonts:
+        - asset: assets/fonts/AtkinsonHyperlegible-Regular.ttf
+        - asset: assets/fonts/AtkinsonHyperlegible-Bold.ttf
+          weight: 700

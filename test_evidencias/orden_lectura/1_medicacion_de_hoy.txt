@@ -1,0 +1,17 @@
+1. «Medicación de hoy» — encabezado
+2. «Martes, 10 de noviembre»
+3. «Ajustes» — botón
+4. «1 de 3 tomas hechas hoy»
+5. «Demostración: simular aviso de toma» — botón
+6. «Mañana» — encabezado
+7. «Enalapril: 1 pastilla a las 08:00, para la tensión. Tomado a las 08:05.»
+8. «Paracetamol: 1 pastilla a las 09:00. Pendiente.»
+9. «Marcar Paracetamol como tomado» — botón
+10. «Tarde» — encabezado
+11. «No tienes tomas por la tarde»
+12. «Noche» — encabezado
+13. «Atorvastatina: 1 pastilla a las 22:00, para el colesterol. Pendiente.»
+14. «Marcar Atorvastatina como tomado» — botón
+15. «Añadir medicamento» — botón
+16. «Hoy Pestaña 1 de 2» — botón, seleccionado
+17. «Mi botiquín Pestaña 2 de 2» — botón

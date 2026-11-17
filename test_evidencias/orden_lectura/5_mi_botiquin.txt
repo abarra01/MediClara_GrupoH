@@ -1,0 +1,10 @@
+1. «Mi botiquín» — encabezado
+2. «Todos tus tratamientos. Pulsa uno para editarlo o eliminarlo.»
+3. «En uso (3)» — encabezado
+4. «Enalapril Pastilla · cada día a las 08:00» — botón
+5. «Paracetamol Pastilla · cada día a las 09:00» — botón
+6. «Atorvastatina Pastilla · cada día a las 22:00» — botón
+7. «Terminados (1)» — encabezado
+8. «Amoxicilina Tratamiento terminado» — botón
+9. «Hoy Pestaña 1 de 2» — botón
+10. «Mi botiquín Pestaña 2 de 2» — botón, seleccionado

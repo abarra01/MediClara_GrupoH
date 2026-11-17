@@ -1,0 +1,5 @@
+1. «Es la hora de tu medicación» — encabezado
+2. «Paracetamol · 1 pastilla · 09:00»
+3. «Ya me he tomado Paracetamol» — botón
+4. «Recordármelo dentro de 15 minutos» — botón
+5. «También puedes deslizar «Ya me lo he tomado» hacia la derecha.»

@@ -1,0 +1,11 @@
+1. «Atrás» — botón
+2. «Cancelar» — botón
+3. «Añadir medicamento» — encabezado
+4. «Nombre del medicamento (obligatorio) Ej.: Paracetamol» — campo de texto
+5. «Tipo de medicamento»
+6. «Tipo: Pastilla» — botón, seleccionado
+7. «Tipo: Jarabe» — botón
+8. «Tipo: Inyección» — botón
+9. «Hora de la toma 09:00. Pulsa para cambiar la hora Te avisaremos con sonido, vibración y un mensaje en pantalla.» — botón
+10. «Cantidad en cada toma (obligatorio), 1 pastilla» — campo de texto
+11. «Guardar medicamento» — botón

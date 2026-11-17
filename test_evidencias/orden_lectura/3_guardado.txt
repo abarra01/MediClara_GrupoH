@@ -1,0 +1,7 @@
+1. «Medicamento guardado» — encabezado, se anuncia al cambiar
+2. «Nombre: Enalapril»
+3. «Tipo: Pastilla»
+4. «Hora: 08:00»
+5. «Cantidad: 1 pastilla»
+6. «Ver medicación de hoy» — botón
+7. «Añadir otro» — botón

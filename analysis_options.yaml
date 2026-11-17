@@ -1,0 +1,12 @@
+analyzer:
+  exclude:
+    - build/**
+    - android/**
+    - web/**
+    - windows/**
+  language:
+    strict-casts: true
+linter:
+  rules:
+    - prefer_const_constructors
+    - use_build_context_synchronously
